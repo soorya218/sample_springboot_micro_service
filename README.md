@@ -24,4 +24,5 @@ This code contains the proper way in which a micro-service can be implemented.
 
 "exceptions" --> where any exception handling code can reside
 
-
+# Please note
+Change the name of the db in application.properties and add/modify the entities to reflect the table structure before building.
